@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/RealNethical/DroidWare/main/20210718_143159.png)
+![Logo](https://raw.githubusercontent.com/RealNethical/DroidWare/main/logo.png)
 
     
 # DroidWare
